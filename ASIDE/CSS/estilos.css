@@ -1,0 +1,17 @@
+
+          article { background-color: aquamarine;
+            width: 50%;
+            padding: 10px;
+            float: left;
+          }
+          aside {
+          
+            width: 40%;
+            float: right;
+            background-color: green;
+            color: black;
+            padding: 5px;
+            margin: 10px;
+            height: 70%;
+          }
+       
